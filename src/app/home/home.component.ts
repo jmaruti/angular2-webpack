@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
+  firstName:string = 'Hello World!1';
+
   constructor() {
     // Do stuff
   }
